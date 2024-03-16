@@ -1,16 +1,22 @@
-### Hi there 👋
+###Braeden Treutel's GitHub Repository
+Introduction
+Welcome to my GitHub repository! Here, you'll find a collection of projects that showcase my skills and interests in computer science. Feel free to explore the projects and provide feedback.
 
-<!--
-**braeden512/braeden512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About Me
+I am a computer science student at Middle Tennessee State University, with a passion for problem-solving and software development. My goal is to leverage my education and experiences to contribute meaningfully to the tech industry.
 
-Here are some ideas to get you started:
+Projects
+1. Minesweeper Project
+Description: Implementation of a classic minesweeper game using C++.
+Features: Utilizes fundamental concepts in algorithms and data structures.
+Repository Link: Minesweeper Project
+2. Flight Itinerary Project
+Description: C++ application for managing flight schedules using linked lists and the STL library.
+Features: Ensures memory efficiency and optimized performance.
+Repository Link: Flight Itinerary Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact
+Email: Braeden4328@gmail.com
+LinkedIn: Braeden Treutel
+Resume: View Resume
+Feel free to reach out to me via email or LinkedIn for collaboration opportunities or inquiries about my projects.
