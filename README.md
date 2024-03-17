@@ -16,10 +16,10 @@ Features: Ensures memory efficiency and optimized performance.
 Repository Link: Flight Itinerary Project
 
 Contact
-Email: Braeden4328@gmail.com
-https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white
-LinkedIn: [Braeden Treutel](https://www.linkedin.com/in/braeden-treutel-b37542264/)
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+Email: Braeden4328@gmail.com \n
+<img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" /> \n
+LinkedIn: [Braeden Treutel](https://www.linkedin.com/in/braeden-treutel-b37542264/) \n
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> \n
 Resume: [Updated Resume.pdf](https://github.com/braeden512/braeden512/files/14625613/Updated.Resume.pdf)
 
 Feel free to reach out to me via email or LinkedIn for collaboration opportunities or inquiries about my projects.
