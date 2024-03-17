@@ -8,17 +8,6 @@ __About Me__
 I am a computer science student at Middle Tennessee State University, with a passion for problem-solving and software development. My goal is to leverage my education and experiences to contribute meaningfully to the tech industry.
 
 
-__Projects__
-
-1. Minesweeper Project
-Description: Implementation of a classic minesweeper game using C++.
-Repository Link: Minesweeper Project
-
-2. Flight Itinerary Project
-Description: C++ application for managing flight schedules using linked lists and the STL library.
-Repository Link: Flight Itinerary Project
-
-
 __Contact__
 
 Email: Braeden4328@gmail.com
