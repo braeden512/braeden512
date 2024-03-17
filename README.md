@@ -1,4 +1,4 @@
-__Braeden Treutel's GitHub Repository__
+__My GitHub Repository__
 
 Welcome to my GitHub repository! Here, you'll find a collection of projects that showcase my skills and interests in computer science. Feel free to explore the projects and provide feedback.
 
