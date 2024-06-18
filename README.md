@@ -14,7 +14,5 @@ Email: Braeden4328@gmail.com
 
 LinkedIn: [Braeden Treutel](https://www.linkedin.com/in/braeden-treutel-b37542264/)
 
-Resume: [Updated Resume.pdf](https://github.com/braeden512/braeden512/files/14625613/Updated.Resume.pdf)
-
 
 Feel free to reach out to me via email or LinkedIn for collaboration opportunities or inquiries about my projects.
